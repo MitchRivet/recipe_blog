@@ -21,4 +21,8 @@
       'title' => t('Redbubble'),
       'domain' => 'redbubble.com',
     );
+    $networks[$uid]['github'] = array(
+      'title' => t('GitHub'),
+      'domain' => 'github.com',
+    ); 
   }

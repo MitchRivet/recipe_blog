@@ -1,0 +1,5 @@
+name = WV custom
+description = adding to the follow module
+package = Custom Modules
+core = 7.x
+files[] = wv_custom.module
